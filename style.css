@@ -13,10 +13,10 @@ body{
     margin: 0;
     border-top: none;
     border-bottom: none;
-    background-color: #88cf95;
+    background-color: #8de49d;
 }
 .content{
-    width: 85%;
+    width: 70%;
     height: 100%;
     background-color: #000000;
     padding: 20px;
