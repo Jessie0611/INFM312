@@ -16,12 +16,17 @@ body{
     background-color: #8de49d;
 }
 .content{
-    width: 70%;
+    width: 75%;
     height: 100%;
-    background-color: #000000;
+    background-color: #252625;
     padding: 20px;
     padding-bottom: 100px;
 }
 a, a:visited{
     color: #88cf95;
+}
+img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
 }
